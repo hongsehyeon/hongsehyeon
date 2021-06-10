@@ -1,6 +1,6 @@
 ![Hello!](https://www.fortressiq.com/wp-content/uploads/2020/10/FIQ-hello-Human-display.jpg)
 # 🛠Hello, My Name is ***Hong SeHyeon*** ( •̀ ω •́ )✧
-**I want to be a Game, Frontend developer.**
+**I want to be a Game client developer.**
 So now I'm trying hard to be it!
 
 |Country|Age|Programming languages|
