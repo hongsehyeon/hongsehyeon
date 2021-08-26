@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hong%Se%Hyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Hong%Se%Hyeon&fontSize=90)
 
 ### 🛠 Tech Stack 🛠
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/C%23-brightgreen?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
