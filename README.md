@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Hong%Se%Hyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Hong%Se%Hyeon&fontColor=white&fontSize=90)
 
 ### 🛠 Tech Stack 🛠
 <p align="left">
